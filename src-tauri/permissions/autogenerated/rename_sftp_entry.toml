@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-rename-sftp-entry"
+description = "Enables the rename_sftp_entry command without any pre-configured scope."
+commands.allow = ["rename_sftp_entry"]
+
+[[permission]]
+identifier = "deny-rename-sftp-entry"
+description = "Denies the rename_sftp_entry command without any pre-configured scope."
+commands.deny = ["rename_sftp_entry"]

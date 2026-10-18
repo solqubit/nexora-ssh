@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-save-identity-profile"
+description = "Enables the save_identity_profile command without any pre-configured scope."
+commands.allow = ["save_identity_profile"]
+
+[[permission]]
+identifier = "deny-save-identity-profile"
+description = "Denies the save_identity_profile command without any pre-configured scope."
+commands.deny = ["save_identity_profile"]

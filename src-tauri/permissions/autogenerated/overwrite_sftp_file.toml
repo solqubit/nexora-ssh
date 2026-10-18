@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-overwrite-sftp-file"
+description = "Enables the overwrite_sftp_file command without any pre-configured scope."
+commands.allow = ["overwrite_sftp_file"]
+
+[[permission]]
+identifier = "deny-overwrite-sftp-file"
+description = "Denies the overwrite_sftp_file command without any pre-configured scope."
+commands.deny = ["overwrite_sftp_file"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-promote-temporary-host"
+description = "Enables the promote_temporary_host command without any pre-configured scope."
+commands.allow = ["promote_temporary_host"]
+
+[[permission]]
+identifier = "deny-promote-temporary-host"
+description = "Denies the promote_temporary_host command without any pre-configured scope."
+commands.deny = ["promote_temporary_host"]

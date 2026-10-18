@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-transfer-sftp-to-local"
+description = "Enables the transfer_sftp_to_local command without any pre-configured scope."
+commands.allow = ["transfer_sftp_to_local"]
+
+[[permission]]
+identifier = "deny-transfer-sftp-to-local"
+description = "Denies the transfer_sftp_to_local command without any pre-configured scope."
+commands.deny = ["transfer_sftp_to_local"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-delete-sftp-entry"
+description = "Enables the delete_sftp_entry command without any pre-configured scope."
+commands.allow = ["delete_sftp_entry"]
+
+[[permission]]
+identifier = "deny-delete-sftp-entry"
+description = "Denies the delete_sftp_entry command without any pre-configured scope."
+commands.deny = ["delete_sftp_entry"]

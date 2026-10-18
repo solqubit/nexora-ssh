@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-create-sftp-directory"
+description = "Enables the create_sftp_directory command without any pre-configured scope."
+commands.allow = ["create_sftp_directory"]
+
+[[permission]]
+identifier = "deny-create-sftp-directory"
+description = "Denies the create_sftp_directory command without any pre-configured scope."
+commands.deny = ["create_sftp_directory"]

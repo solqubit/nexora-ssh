@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-disconnect-sftp"
+description = "Enables the disconnect_sftp command without any pre-configured scope."
+commands.allow = ["disconnect_sftp"]
+
+[[permission]]
+identifier = "deny-disconnect-sftp"
+description = "Denies the disconnect_sftp command without any pre-configured scope."
+commands.deny = ["disconnect_sftp"]

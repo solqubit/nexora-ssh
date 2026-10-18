@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-load-temporary-hosts"
+description = "Enables the load_temporary_hosts command without any pre-configured scope."
+commands.allow = ["load_temporary_hosts"]
+
+[[permission]]
+identifier = "deny-load-temporary-hosts"
+description = "Denies the load_temporary_hosts command without any pre-configured scope."
+commands.deny = ["load_temporary_hosts"]

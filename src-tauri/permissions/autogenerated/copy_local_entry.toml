@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-copy-local-entry"
+description = "Enables the copy_local_entry command without any pre-configured scope."
+commands.allow = ["copy_local_entry"]
+
+[[permission]]
+identifier = "deny-copy-local-entry"
+description = "Denies the copy_local_entry command without any pre-configured scope."
+commands.deny = ["copy_local_entry"]

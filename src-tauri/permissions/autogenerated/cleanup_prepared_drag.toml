@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-cleanup-prepared-drag"
+description = "Enables the cleanup_prepared_drag command without any pre-configured scope."
+commands.allow = ["cleanup_prepared_drag"]
+
+[[permission]]
+identifier = "deny-cleanup-prepared-drag"
+description = "Denies the cleanup_prepared_drag command without any pre-configured scope."
+commands.deny = ["cleanup_prepared_drag"]

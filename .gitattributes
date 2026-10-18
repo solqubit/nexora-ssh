@@ -1,0 +1,4 @@
+# Mantener finales de línea uniformes al trabajar desde Windows o GitHub.
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
